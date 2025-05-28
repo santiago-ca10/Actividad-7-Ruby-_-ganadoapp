@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Ramon - Becerro",
+    "birth_date": "2025-09-07",
+    "history": ""
+  },
+  {
+    "id": 2,
+    "name": "Canela - Novilla",
+    "birth_date": "2019-09-17",
+    "history": "Vacunada contra friebre aftosa 22/5/4 |"
+  },
+  {
+    "id": 5,
+    "name": "- Ternero",
+    "birth_date": "2025-05-28",
+    "history": ""
+  },
+  {
+    "id": 6,
+    "name": "Maximus - Toro",
+    "birth_date": "2023-03-10",
+    "history": "Vacunado contra la fiebre aftosa |"
+  }
+]
